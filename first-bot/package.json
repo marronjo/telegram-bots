@@ -1,0 +1,23 @@
+{
+  "name": "first-telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot, reply to user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marronjo/telegram-bots.git"
+  },
+  "author": "marronjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marronjo/telegram-bots/issues"
+  },
+  "homepage": "https://github.com/marronjo/telegram-bots#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.3.0"
+  }
+}
